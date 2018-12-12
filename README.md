@@ -19,7 +19,7 @@ Tracking the defense budget is difficult. The F-35 Lightning II, alone, includes
 _B-21 Raider (Long Range Strike Bomber)_
 <br>   
 <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
-  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/B-21%20Raider%20(Long%20Range%20Strike%20Bomber).png" width="100%" height="100%">
+  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/B-21.png" width="100%" height="100%">
 </a>
 
 _CH-47 Chinook heavy-transport helicopter_ 
