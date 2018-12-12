@@ -6,7 +6,7 @@
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/F-35input.png" width="33%" height="100%">
 </a>
  <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
-  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/F-35chart.png" width="66%" height="66%">
+  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/F-35chart.png" width="66%" height="100%">
 </a>
 
 **Overview** 
