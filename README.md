@@ -10,13 +10,13 @@ _F-35 Lightning II: Joint Strike Fighter_
  <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/F-35chart.png" width="62%" height="100%">
 </a>
-Tracking the defense budget is difficult. The F-35 Lightning II, alone, includes 18 different budget lines. And the challenges extend well beyond multiple names. We designed a series of tools to make tracking the defense budget easier. For example, tracking F-35 spending and projections (a process that could take hours) can now be done in seconds. 
+Tracking the defense budget is difficult. The F-35 Joint Strike Fighter, alone, includes 18 different budget lines. And the challenges extend well beyond multiple names. We designed a series of tools to make tracking the defense budget easier. For example, tracking F-35 spending and projections (a process normally takes hours) can now be done in seconds. 
 <br> 
 
 <details>
 <summary>More screenshots</summary>
 
-_B-21 Raider (Long Range Strike Bomber)_
+_B-21 Raider: Long Range Strike Bomber_
 <br>   
 <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/B-21.png" width="100%" height="100%">
@@ -46,7 +46,7 @@ _CVN-21 Ford-class aircraft carrier_
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/Ford.png" width="100%" height="100%">
 </a>
 
-_LCS (Littoral Combat Ship)_ 
+_LCS: Littoral Combat Ship_ 
 <br> 
 <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/LCS.png" width="100%" height="100%">
@@ -58,7 +58,7 @@ _UH-60 Blackhawk utility helicopter_
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/UH-60.png" width="100%" height="100%">
 </a> 
 
-_VH-92 presidential helicopter (Marine One)_ 
+_VH-92 presidential helicopter: Marine One replacement_ 
 <br> 
 <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/VH-92.png" width="100%" height="100%">
