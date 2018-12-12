@@ -22,10 +22,46 @@ _B-21 Raider (Long Range Strike Bomber)_
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/B-21%20Raider%20(Long%20Range%20Strike%20Bomber).png" width="100%" height="100%">
 </a>
 
-_CH-47 Chinook_ 
+_CH-47 Chinook heavylift helicopter_ 
 <br> 
 <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/CH-47.png" width="100%" height="100%">
+</a>
+
+_DDG-1000 Zumwalt destroyer_ 
+<br> 
+<a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
+  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/DDG-1000.png" width="100%" height="100%">
+</a>
+
+_F/A-18 Hornet fighter jet_ 
+<br> 
+<a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
+  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/F:A-18.png" width="100%" height="100%">
+</a>
+
+_CVN-21 Ford-class aircraft carrier_ 
+<br> 
+<a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
+  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/Ford.png" width="100%" height="100%">
+</a>
+
+_LCS (Littoral Combat Ship)_ 
+<br> 
+<a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
+  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/LCS.png" width="100%" height="100%">
+</a>
+
+_UH-60 Blackhawk mediumlift helicopter_ 
+<br> 
+<a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
+  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/UH-60.png" width="100%" height="100%">
+</a> 
+
+_VH-92 Presidential Helicopter (Marine One)_ 
+<br> 
+<a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
+  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/VH-92.png" width="100%" height="100%">
 </a>
 </details><br> 
 
