@@ -1,7 +1,7 @@
-# fydp
+# Future Years Defense Program App Series (Defense spending and projections) 
 
 **Screenshots** 
-
+_F-35 Lightning II: Joint Strike Fighter_
 <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/F-35input.png" width="36%" height="100%">
 </a>
