@@ -8,6 +8,7 @@
  <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/F-35chart.png" width="62%" height="100%">
 </a>
+Tracking the Defense budget is difficult. The F-35 Lightning II, alone, includes 18 different budget lines. And the challenges extend well beyond multiple names. We designed a series of tools to make tracking the defense budget easier. For example, tracking F-35 spending and projections (a process that could take hours) can now be done in seconds. 
 
 **Overview** 
 The Future Years Defense Program (FYDP) is a five-year plan for the Department of Defense (DoD) released most years with the President's budget request. This valuable resource provides budget projections down to the project level, thereby making it possible to analyze DoD's plans for future investments and to assess how these investments support U.S. defense strategy. However, the FYDP data released publicly by DoD is difficult to analyze because it is buried in hundreds of separate PDF documents.<br/><br/>
