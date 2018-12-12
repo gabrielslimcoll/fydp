@@ -1,4 +1,4 @@
-# Future Years Defense Program App Series (Defense spending and projections) 
+# Future Years Defense Program (U.S. defense spending and projections) App Series 
 
 **Screenshots** 
 <br> 
