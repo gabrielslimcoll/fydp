@@ -22,7 +22,7 @@ _B-21 Raider (Long Range Strike Bomber)_
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/B-21%20Raider%20(Long%20Range%20Strike%20Bomber).png" width="100%" height="100%">
 </a>
 
-_CH-47 Chinook heavylift helicopter_ 
+_CH-47 Chinook heavy-transport helicopter_ 
 <br> 
 <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/CH-47.png" width="100%" height="100%">
@@ -52,13 +52,13 @@ _LCS (Littoral Combat Ship)_
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/LCS.png" width="100%" height="100%">
 </a>
 
-_UH-60 Blackhawk mediumlift helicopter_ 
+_UH-60 Blackhawk utility helicopter_ 
 <br> 
 <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/UH-60.png" width="100%" height="100%">
 </a> 
 
-_VH-92 Presidential Helicopter (Marine One)_ 
+_VH-92 presidential helicopter (Marine One)_ 
 <br> 
 <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/VH-92.png" width="100%" height="100%">
