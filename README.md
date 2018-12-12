@@ -10,7 +10,7 @@ _F-35 Lightning II: Joint Strike Fighter_
  <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
   <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/F-35chart.png" width="62%" height="100%">
 </a>
-Tracking the defense budget is difficult. The F-35 Joint Strike Fighter, alone, includes 18 different budget lines. And the challenges extend well beyond multiple names. We designed a series of tools to make tracking the defense budget easier. For example, tracking F-35 spending and projections (a process normally takes hours) can now be done in seconds. 
+Tracking the defense budget is difficult. The F-35 Joint Strike Fighter, alone, includes 18 different budget lines. And the challenges extend well beyond having multiple names for one project. We designed a series of tools to make tracking the defense budget easier. For example, tracking F-35 spending and projections (a process that normally takes hours) can now be done in seconds. 
 <br> 
 
 <details>
