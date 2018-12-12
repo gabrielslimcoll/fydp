@@ -16,13 +16,13 @@ Tracking the Defense budget is difficult. The F-35 Lightning II, alone, includes
 <details>
 <summary>More screenshots</summary>
 <br>
-_B-21 Raider (Long Range Strike Bomber)_ 
+__B-21 Raider (Long Range Strike Bomber)__ 
 <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
-  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/B-21%20Raider%20(Long%20Range%20Strike%20Bomber).png" width="36%" height="100%">
+  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/B-21%20Raider%20(Long%20Range%20Strike%20Bomber).png" width="100%" height="100%">
 </a>
-_CH-47 Chinook_ 
+__CH-47 Chinook__ 
 <a href="https://github.com/gabrielslimcoll/fydp/tree/master/screenshots/">
-  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/CH-47.png" width="36%" height="100%">
+  <img src="https://github.com/gabrielslimcoll/fydp/blob/master/screenshots/CH-47.png" width="100%" height="100%">
 </a>
 </details><br> 
 
