@@ -1,7 +1,13 @@
 # Future Years Defense Program (U.S. defense spending and projections) App Series 
 <p align="center">
   <b>
-  <a href="http://analytics.csis.org/fydp/chart/">View the app on analytics.csis.org</a></b><p/>  
+  <a href="http://analytics.csis.org/fydp/chart/">View the apps on analytics.csis.org</a></b><p/> 
+<p align="center">
+  <b>
+  <a href="http://analytics.csis.org/fydp/chart/">chart app</a></b> | 
+  <b>
+  <a href="http://analytics.csis.org/fydp/table/">table app</a></b>
+<p/> 
 
 **Screenshots** 
 <br> 
