@@ -1,7 +1,7 @@
 # Future Years Defense Program (U.S. defense spending and projections) App Series 
 <p align="center">
   <b>
-  <a href="http://analytics.csis.org/fydp/chart/">View the app on analytics.csis.org</a></b><p/><br>  
+  <a href="http://analytics.csis.org/fydp/chart/">View the app on analytics.csis.org</a></b><p/>  
 **Screenshots** 
 <br> 
 _F-35 Lightning II: Joint Strike Fighter_ 
